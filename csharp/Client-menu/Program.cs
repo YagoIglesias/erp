@@ -70,7 +70,7 @@ if (reponse == 1)
             username = $"{premier3Lettres}";
 
 
-           //hello
+           //hell
 
             var sql = $"SELECT cliUsserName FROM t_client WHERE cliUsserName ='{username}'";
 
